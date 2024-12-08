@@ -1,0 +1,20 @@
+Solve systems of linear equations using various methods including Gaussian and Gauss-Jordan elimination and inverse matrices.
+Calculate determinants and apply their properties.
+Construct a basis for the row space, column space, and null space of a matrix and find the rank and nullity of a matrix.
+Examine the dimension of spaces such as those associated with matrices and linear transformations.
+Apply eigenvalues and eigenvectors and use them in applications.
+Sketch and interpret the unit tangent and unit normal vectors and curvature.
+Apply and interpret the gradient and directional derivatives for a function at a given point.
+Formulate the total differential of a function of several variables and use it to approximate incremental change in the function.
+Analyze the flow and divergence for a vector field.
+Explain the relationship between multiple and iterated integrals.
+State the definition of a line integral, and use it to find the total change in a function given its gradient field.
+Apply Green’s Theorem in the plane.
+Apply the Divergence Theorem of Gauss to a closed region in space.
+Construct the parametrization of curves, and use it to compute complex line integrals directly.
+Extend real trigonometric functions to complex trigonometric functions.
+Apply Cauchy’s integral theorem and formula to compute line integrals.
+Explain the theory of integration of analytic functions and the applications of the Cauchy-Goursat theorem. 
+Construct complex-differentiable functions as power series.
+Compute innermost Laurent series at an isolated singularity, and determine the residue.
+Apply the residue theorem to compute complex line integrals and real integrals.
