@@ -1,0 +1,15 @@
+Apply augmentation techniques to data structures to improve algorithm design.
+Understand the binary search tree and the properties associated with the tree structure.
+Query the binary search tree with various operations and develop those operations using computational efficient methods.
+Analyze an iterative algorithm using basic summations.
+Define asymptotic notation as a method for describing the complexity of an algorithm in terms of functional upper bounds and lower bounds.
+Apply asymptotic notation to compare the complexity of two or more algorithms.
+Solve recurrences using the substitution method with induction and iteration method.
+Solve divide-and-conquer recurrences using the Master Method.
+Explain the conditions under which a more costly algorithm might be preferable.
+Recall knowledge of fundamental data structures such as arrays, linked lists, stacks, queues, trees, and graphs, including their properties and use cases.
+Differentiate between discrete and continuous random variables and their associated probability functions (PMF and PDF), providing examples of each.
+Icovariance and correlation matrices to understand relationships among multiple variables in a dataset.  
+Recognize the probability types, axioms, and laws such as joint probability, non-negativity axiom, CLT,  and LLN, including their uses and examples.
+Describe multiple probability distributions such as hypergeometric, geometric, negative binomial, binomial, Bernoulli, and Poisson.
+Compute the moments of distributions like mean, standard deviation, variance, skewness, and kurtosis.
