@@ -1,0 +1,92 @@
+{
+  "Table of Contents": [
+    {
+      "title": "Data Processing and Preprocessing",
+      "page": 1,
+      "sections": [
+        { "title": "Data Processing", "page": 1 },
+        { "title": "Differences Between Data Processing and Data Preprocessing", "page": 2 },
+        { "title": "Summary", "page": 3 }
+      ]
+    },
+    {
+      "title": "Data Mining",
+      "page": 4,
+      "sections": [
+        { "title": "Data Mining Process", "page": 4 },
+        { "title": "Feature Engineering", "page": 5 },
+        { "title": "Summary of the Data Mining Process", "page": 6 }
+      ]
+    },
+    {
+      "title": "Data Collection",
+      "page": 7,
+      "sections": [
+        { "title": "Online Dataset Sources", "page": 7 }
+      ]
+    },
+    {
+      "title": "Introduction to Data Preprocessing",
+      "page": 8
+    },
+    {
+      "title": "Data Curation",
+      "page": 10,
+      "sections": [
+        { "title": "Description", "page": 10 },
+        { "title": "Key Activities in Data Curation", "page": 10 },
+        { "title": "Data Curation in Data Processing", "page": 10 },
+        { "title": "Data Curation in Data Preprocessing", "page": 11 },
+        { "title": "Summary", "page": 13 }
+      ]
+    },
+    {
+      "title": "Data Cleaning",
+      "page": 14,
+      "sections": [
+        { "title": "Common Data Cleaning Tasks", "page": 14 },
+        { "title": "Summary", "page": 20 }
+      ]
+    },
+    {
+      "title": "Data Transformation",
+      "page": 21,
+      "sections": [
+        { "title": "Discretization", "page": 21 },
+        { "title": "Example - Convert Nominal Features to Numerical Features", "page": 22 },
+        { "title": "Normalization and Standardization", "page": 23 },
+        { "title": "Summary", "page": 29 }
+      ]
+    },
+    {
+      "title": "Outliers",
+      "page": 31,
+      "sections": [
+        { "title": "Mahalanobis Distance for Outlier Removal", "page": 32 },
+        { "title": "Summary", "page": 34 }
+      ]
+    },
+    {
+      "title": "Feature Engineering",
+      "page": 36,
+      "sections": [
+        { "title": "Example - Mathematical Transformation", "page": 36 },
+        { "title": "Summary", "page": 37 }
+      ]
+    },
+    {
+      "title": "Feature Exploration",
+      "page": 39,
+      "sections": [
+        { "title": "Summary", "page": 44 }
+      ]
+    },
+    {
+      "title": "Feature Ranking and Selection",
+      "page": 46,
+      "sections": [
+        { "title": "Model for Feature Ranking and Selection", "page": 47 }
+      ]
+    }
+  ]
+}

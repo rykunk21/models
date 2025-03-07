@@ -130,6 +130,18 @@ fn get_contents_pages(doc: &Document) -> Vec<u32> {
     return contents_pages;
 }
 
+
+pub fn get_en625_(week: u8) -> Result<Value, Box<dyn Error>> {
+    let file = format!("artifacts/algorithms/m{}/m{}.pdf", week, week);
+
+    match Document::load(file) {
+        Ok(document) => {
+            Ok(get_contents(&document))
+        }
+        Err(err) => Err(Box::new(err)),
+    }
+}
+
 pub fn generate_reading_schedule(week: u8) -> std::io::Result<()> {
 
     // Define the model and prompt
@@ -170,13 +182,14 @@ pub fn generate_reading_schedule(week: u8) -> std::io::Result<()> {
 
 }
 
-pub fn get_en625_(week: u8) -> Result<Value, Box<dyn Error>> {
-    let file = format!("artifacts/algorithms/m{}/m{}.pdf", week, week);
 
-    match Document::load(file) {
-        Ok(document) => {
-            Ok(get_contents(&document))
-        }
-        Err(err) => Err(Box::new(err)),
+mod tests{
+    use super::get_en625_;
+
+
+    #[test]
+    fn test_content() {
+        let v = get_en625_(3).expect("Failed to get week 3");
+        println!("{}", v)
     }
 }
